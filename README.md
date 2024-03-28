@@ -1,6 +1,6 @@
 ### Hi there👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Luckiest+Guy&size=40&pause=1000&color=21F70C&background=DF0F0F00&center=true&vCenter=true&random=false&width=435&lines=I'm+Jaekyeong(Joy))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Luckiest+Guy&size=30&pause=1000&color=21F70C&background=DF0F0F00&center=true&vCenter=true&random=false&width=435&lines=I'm+Jaekyeong(Joy))](https://git.io/typing-svg)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
