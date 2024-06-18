@@ -27,7 +27,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on CYSSC as a co-op student
+- 🔭 I worked on CYSSC for 4 months as a co-op developer
 - 🌱 I’m currently learning Software Engineering Technology - AI at Centennial College
 - 👯 I’m looking to collaborate on projects requiring a deep understanding of web development and AI.
 - 🤔 I’m looking for help with understanding and working on AI
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am kind of an introverted person, but I am active and passionate about web development and AI.
 
 -->
-- 🔭 I’m currently working on CYSSC as a co-op student
+- 🔭 I worked on CYSSC for 4 months as a co-op developer
 - 🌱 I’m a student studying *Software Engineering Technology - Artificial Intelligence(AI)* at Centennial College
 - 👯 I’m looking to collaborate on projects requiring a deep understanding of web development and AI
 - 🤔 I’m looking for help with understanding and working on AI
