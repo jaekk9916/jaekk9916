@@ -27,7 +27,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I worked on CYSSC for 4 months as a co-op developer
 - 🌱 I’m currently learning Software Engineering Technology - AI at Centennial College
 - 👯 I’m looking to collaborate on projects requiring a deep understanding of web development and AI.
 - 🤔 I’m looking for help with understanding and working on AI
